@@ -73,5 +73,4 @@ Rajkot, Gujarat, India
 ---
 
 Built while learning and experimenting with Computer Science, AI, and web development.
-
 Experiment
